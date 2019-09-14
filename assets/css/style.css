@@ -1,0 +1,23 @@
+.form-data {
+    margin-top:50px;
+}
+
+body {
+  background-color: maroon;
+}
+
+h1 {
+  color: aqua;
+  text-align: center;
+}
+
+.card {
+  background-color: gainsboro;
+}
+
+#submitForm {
+  border-radius: 25px;
+    background-color: red;
+    color: white;
+    width: 75px;
+}
